@@ -13,6 +13,11 @@ nav {
    background-color: var(--main-bg-color);
 }
 
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+
 .card a {
     text-decoration: none;
 }
