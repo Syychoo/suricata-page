@@ -8,6 +8,7 @@
 
 :root{
     --main-bg-color: #e83e8c;
+    --payment-bg-color: #17A2B8;
 }
 nav {
    background-color: var(--main-bg-color);
@@ -20,4 +21,19 @@ nav {
 
 .card a {
     text-decoration: none;
+}
+
+
+.payment-color{
+    background-color: var(--payment-bg-color);
+    color: white;
+}
+
+.footer-color {
+    background-color: var(--main-bg-color);
+}
+
+.footer-logo {
+    width: auto;
+    height: 125px;
 }
